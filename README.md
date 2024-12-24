@@ -1,6 +1,6 @@
 # Raytracer
 
-A GPU-accelerated raytracing application built with OpenGL and GLSL. This project showcases features like reflections, refractions, and anti-aliasing, demonstrating advanced graphics programming techniques.
+A GPU-accelerated raytracing application built with OpenGL and GLSL.
 
 ![Placeholder Image](images/rt1_final.gif)
 
